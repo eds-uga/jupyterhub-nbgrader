@@ -13,6 +13,7 @@ Right now, it doesn't contain a whole lot, but it does have scripts that serve a
 ### What it doesn't do (yet)
 
  - Modify the `nbgrader_config.py` file in any way.
+ - Modify the `jupyterhub_config.py` file in any way.
  - Create, delete, or otherwise edit any nbgrader courses.
  - Use GitHub authentication.
 
